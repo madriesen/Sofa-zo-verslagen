@@ -28,21 +28,30 @@ Tijdens deze avond komt het kernteam samen om de nieuwe stappen te bespreken die
 
 ## Planning (tem april + KeaH)
 
-| datum | activiteit (zie begrippenlijst)   |
-|-------|-----------------------------------|
-| 16/1  | Repetitie voor Heaven Come        |
-| 17/1  | Heaven Come                       |
-| 24/1  | Vergadering met aanbidding        |
-| 7/2   | LIVING                            |
-| 21/2  | Heaven Come                       |
-| 28/2  | Vergadering met aanbidding        |
-| 7/3   | LIVING                            |
-| 21/3  | Heaven Come                       |
-| 28/3  | Vergadering met aanbidding        |
-| 4/4   | LIVING                            |
-| 18/4  | Heaven Come (-> **PAASMAANDAG!**) |
-| 25/4  | Vergadering met aanbidding        |
-| 7/5   | KeaH (Kom en aanbid Hem)          |
-| 2/7   | KeaH (Kom en aanbid Hem)          |
-| 3/9   | KeaH (Kom en aanbid Hem)          |
-| 5/11  | KeaH (Kom en aanbid Hem)          |
+| datum  | activiteit (zie begrippenlijst)   |
+|--------|-----------------------------------|
+| 16/1   | Repetitie voor Heaven Come        |
+| 17/1   | Heaven Come                       |
+| 24/1   | Vergadering met aanbidding        |
+| 7/2    | LIVING                            |
+| 21/2   | Heaven Come                       |
+| 28/2   | Vergadering met aanbidding        |
+| 7/3    | LIVING                            |
+| 21/3   | Heaven Come                       |
+| 28/3   | Vergadering met aanbidding        |
+| 4/4    | LIVING                            |
+| 18/4   | Heaven Come (-> **PAASMAANDAG!**) |
+| 25/4   | Vergadering met aanbidding        |
+| 2/5    | LIVING                            |
+| 7/5    | KeaH (Kom en aanbid Hem)          |
+| 15/5   | Repetitie Heaven Come             |
+| 16/5   | Heaven Come                       |
+| 23/5   | Vergadering met aanbidding        |
+| (30/5) | (?Teambuilding?)                  |
+| 6/6    | LIVING                            |
+| 19/6   | Repetitie Heaven Come             |
+| 20/6   | Heaven Come                       |
+| 27/6   | Vergadering met aanbidding        |
+| 2/7    | KeaH (Kom en aanbid Hem)          |
+| 3/9    | KeaH (Kom en aanbid Hem)          |
+| 5/11   | KeaH (Kom en aanbid Hem)          |
